@@ -19,6 +19,14 @@ function App() {
     }
   }, [messages, isTyping]);
 
+  // --- DEBUG: Cart Reset Button ---
+  const handleCartReset = () => {
+    if (typeof window !== 'undefined') {
+      sessionStorage.removeItem('cart');
+      window.location.reload();
+    }
+  };
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-orange-50 to-pink-50 py-12 px-4 sm:px-6 lg:px-8">
       {!showChat ? (
@@ -26,8 +34,16 @@ function App() {
       ) : (
         <div className="max-w-7xl mx-auto bg-white shadow-xl rounded-2xl border border-stone-100/50 overflow-hidden flex flex-col min-h-[85vh]">
           {/* Header with Centered Logo */}
-          <div className="bg-white py-6 text-center border-b border-stone-200">
+          <div className="bg-white py-6 text-center border-b border-stone-200 relative">
             <img src={logo} alt="Khaadi Logo" className="h-12 mx-auto" />
+            {/* Debug Cart Reset Button */}
+            <button
+              onClick={handleCartReset}
+              style={{ position: 'absolute', right: 16, top: 16 }}
+              className="bg-red-100 text-red-700 px-3 py-1 rounded text-xs font-semibold shadow hover:bg-red-200"
+            >
+              Reset Cart (Debug)
+            </button>
           </div>
 
           {/* Chat Content */}

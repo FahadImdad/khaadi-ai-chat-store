@@ -1,16 +1,5 @@
 [
-    {
-      "title": "Printed Cambric Kurta",
-      "price": 3200.0,
-      "currency": "PKR",
-      "sku": "25-06-6E2-12TA",
-      "description": "Kurta:  A long floral printed kurta featuring full sleeves and a neckline with a V-cut adorned with tassel detailing..\nPants: floral printed straight pants.\nDupatta: printed lawn with tassels.",
-      "sizes": ["S", "M", "L", "XL", "XXL"],
-      "colors": ["Multi"],
-      "productUrl": "https://pk.khaadi.com/kurta/25-06-6E2-12TA-VG_MULTI.html?source=plp&plpcgid=003005005-Kurta",
-      "picUrl": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw7f534b93/images/hi-res/25-06-6e2-12ta_multi_1.jpg?sw=800&sh=1200",
-      "tags": ["Ready-to-Wear", "Kurta", "Cambric", "Floral"]
-    },
+   
     {
       "title": "Embroidered Cotton Kurta",
       "price": 7990.0,
@@ -21,7 +10,10 @@
       "colors": ["Pink Multi"],
       "productUrl": "https://pk.khaadi.com/kurta/ETX35-VG_MULTI.html",
       "picUrl": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dwde08de4b/images/hi-res/etx35_multi_1.jpg?sw=800&sh=1200",
-      "tags": ["Ready-to-Wear", "Kurta", "Cotton", "Embroidered"]
+      "tags": ["Ready-to-Wear", "Kurta", "Cotton", "Embroidered"],
+      "inStock": true,
+      "image": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dwde08de4b/images/hi-res/etx35_multi_1.jpg?sw=800&sh=1200",
+      "id": "2"
     },
     {
       "title": "Smart Fit Embroidered Raw Silk Kurta",
@@ -33,7 +25,10 @@
       "colors": ["Multi"],
       "productUrl": "https://pk.khaadi.com/kurta/EST23480-VG_MULTI.html",
       "picUrl": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw5b2bf936/images/hi-res/est23480_multi_1.jpg?sw=800&sh=1200",
-      "tags": ["Ready-to-Wear", "Kurta", "Silk", "Smart Fit"]
+      "tags": ["Ready-to-Wear", "Kurta", "Silk", "Smart Fit"],
+      "inStock": true,
+      "image": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw5b2bf936/images/hi-res/est23480_multi_1.jpg?sw=800&sh=1200",
+      "id": "3"
     },
     {
       "title": "Classic Cambric Kurta",
@@ -45,7 +40,10 @@
       "colors": ["Beige Multi"],
       "productUrl": "https://pk.khaadi.com/kurta/ETX30-VG_MULTI.html",
       "picUrl": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dwe46b2fd4/images/hi-res/etx30_multi_1.jpg?sw=800&sh=1200",
-      "tags": ["Ready-to-Wear", "Kurta", "Cambric"]
+      "tags": ["Ready-to-Wear", "Kurta", "Cambric"],
+      "inStock": true,
+      "image": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dwe46b2fd4/images/hi-res/etx30_multi_1.jpg?sw=800&sh=1200",
+      "id": "4"
     },
     {
       "title": "Floral Printed Kurta",
@@ -57,7 +55,10 @@
       "colors": ["Black"],
       "productUrl": "https://pk.khaadi.com/kurta/EET24604A-VG_BLACK.html",
       "picUrl": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dwfca0acf4/images/hi-res/eet24604a_black_1.jpg?sw=800&sh=1200",
-      "tags": ["Ready-to-Wear", "Kurta", "Crinkle", "Printed"]
+      "tags": ["Ready-to-Wear", "Kurta", "Crinkle", "Printed"],
+      "inStock": true,
+      "image": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dwfca0acf4/images/hi-res/eet24604a_black_1.jpg?sw=800&sh=1200",
+      "id": "5"
     },
     {
       "title": "3-Piece Lawn Suit (Multi)",
@@ -69,7 +70,10 @@
       "colors": ["Multi"],
       "productUrl": "https://pk.khaadi.com/fabrics/3-piece-ss23.html",
       "picUrl": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw42efe48a/images/hi-res/ss2395a_multi_1.jpg?sw=800&sh=1200",
-      "tags": ["Fabrics", "Lawn", "Unstitched"]
+      "tags": ["Fabrics", "Lawn", "Unstitched"],
+      "inStock": true,
+      "image": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw42efe48a/images/hi-res/ss2395a_multi_1.jpg?sw=800&sh=1200",
+      "id": "6"
     },
     {
       "title": "2-Piece Lawn Suit (Blue)",
@@ -81,7 +85,10 @@
       "colors": ["Blue"],
       "productUrl": "https://pk.khaadi.com/fabrics/2-piece-ss23.html",
       "picUrl": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw98184f8f/images/hi-res/esb24553a_blue_1.jpg?sw=800&sh=1200",
-      "tags": ["Fabrics", "Lawn", "Unstitched"]
+      "tags": ["Fabrics", "Lawn", "Unstitched"],
+      "inStock": true,
+      "image": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw98184f8f/images/hi-res/esb24553a_blue_1.jpg?sw=800&sh=1200",
+      "id": "7"
     },
     {
       "title": "Sweet Iris Body Mist 100ml",
@@ -93,7 +100,10 @@
       "colors": [],
       "productUrl": "https://pk.khaadi.com/fragrances/sweet-iris-body-mist.html",
       "picUrl": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dwa95156ff/images/hi-res/bfbm250101_multi_2.jpg?sw=400&sh=600",
-      "tags": ["Accessories", "Fragrance"]
+      "tags": ["Accessories", "Fragrance"],
+      "inStock": true,
+      "image": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dwa95156ff/images/hi-res/bfbm250101_multi_2.jpg?sw=400&sh=600",
+      "id": "8"
     },
     {
       "title": "Oud Infinity Fragrance 50ml",
@@ -105,7 +115,10 @@
       "colors": [],
       "productUrl": "https://pk.khaadi.com/fragrances/oud-infiniti.html",
       "picUrl": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw07d488a4/images/hi-res/bfp250108_multi_2.jpg?sw=400&sh=600",
-      "tags": ["Accessories", "Fragrance"]
+      "tags": ["Accessories", "Fragrance"],
+      "inStock": true,
+      "image": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw07d488a4/images/hi-res/bfp250108_multi_2.jpg?sw=400&sh=600",
+      "id": "9"
     },
     {
       "title": "Printed Shawl (Multi)",
@@ -117,7 +130,10 @@
       "colors": ["Multi"],
       "productUrl": "https://pk.khaadi.com/woman/accessories/shawls.html",
       "picUrl": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw72c74c0f/images/hi-res/ees24617_pink_2.jpg?sw=400&sh=600",
-      "tags": ["Accessories", "Shawl"]
+      "tags": ["Accessories", "Shawl"],
+      "inStock": true,
+      "image": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw72c74c0f/images/hi-res/ees24617_pink_2.jpg?sw=400&sh=600",
+      "id": "10"
     },
     {
       "title": "Formal Jacket",
@@ -129,7 +145,10 @@
       "colors": ["Black"],
       "productUrl": "https://pk.khaadi.com/kurta/jacketblack.html",
       "picUrl": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dwb202dd40/images/hi-res/est24671b_multi_2.jpg?sw=400&sh=600",
-      "tags": ["Ready-to-Wear", "Jacket"]
+      "tags": ["Ready-to-Wear", "Jacket"],
+      "inStock": true,
+      "image": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dwb202dd40/images/hi-res/est24671b_multi_2.jpg?sw=400&sh=600",
+      "id": "11"
     },
     {
       "title": "Denim Jeans (Blue)",
@@ -141,7 +160,10 @@
       "colors": ["Blue"],
       "productUrl": "https://pk.khaadi.com/kurta/denim-jeans-blue.html",
       "picUrl": "https://pk.khaadi.com/on/demandware.static/-/Sites-khaadi-master-catalog/default/dwd0ef0f22/images/hi-res/wcb24205_multi_1.jpg",
-      "tags": ["Ready-to-Wear", "Jeans", "Denim"]
+      "tags": ["Ready-to-Wear", "Jeans", "Denim"],
+      "inStock": true,
+      "image": "https://pk.khaadi.com/on/demandware.static/-/Sites-khaadi-master-catalog/default/dwd0ef0f22/images/hi-res/wcb24205_multi_1.jpg",
+      "id": "12"
     },
     {
       "title": "Lawn Unstitched Suit (Pink)",
@@ -153,7 +175,10 @@
       "colors": ["Pink"],
       "productUrl": "https://pk.khaadi.com/fabrics/pink-lawn.html",
       "picUrl": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dwae6d8079/images/hi-res/sln01b_multi_1.jpg?sw=800&sh=1200",
-      "tags": ["Fabrics", "Lawn", "Unstitched"]
+      "tags": ["Fabrics", "Lawn", "Unstitched"],
+      "inStock": true,
+      "image": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dwae6d8079/images/hi-res/sln01b_multi_1.jpg?sw=800&sh=1200",
+      "id": "13"
     },
     {
       "title": "Smart Fit Embroidered Kurta (Yellow Multi)",
@@ -165,7 +190,10 @@
       "colors": ["Yellow Multi"],
       "productUrl": "https://pk.khaadi.com/kurta/25-06-6E2-09TA-VG_MULTI.html",
       "picUrl": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw5b01659c/images/hi-res/est24572b_l-yellow_1.jpg?sw=800&sh=1200",
-      "tags": ["Ready-to-Wear", "Kurta", "Smart Fit", "Cambric"]
+      "tags": ["Ready-to-Wear", "Kurta", "Smart Fit", "Cambric"],
+      "inStock": true,
+      "image": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw5b01659c/images/hi-res/est24572b_l-yellow_1.jpg?sw=800&sh=1200",
+      "id": "14"
     },
     {
       "title": "Classic Cambric Kurta (Navy Multi)",
@@ -177,6 +205,39 @@
       "colors": ["Navy Multi"],
       "productUrl": "https://pk.khaadi.com/kurta/25-06-6E2-12TA-VG_MULTI.html",
       "picUrl": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw721dfc09/images/hi-res/25-05e62-01tb_multi_1.jpg?sw=800&sh=1200",
-      "tags": ["Ready-to-Wear", "Kurta", "Cambric", "Floral"]
+      "tags": ["Ready-to-Wear", "Kurta", "Cambric", "Floral"],
+      "inStock": true,
+      "image": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw721dfc09/images/hi-res/25-05e62-01tb_multi_1.jpg?sw=800&sh=1200",
+      "id": "15"
+    },
+    {
+      "title": "Fahad",
+      "price": 7500.0,
+      "currency": "PKR",
+      "sku": "25-06-6E2-12TA_MULTI",
+      "description": "Long floral printed kurta with V-cut tassel neckline and matching pants.",
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "colors": ["Navy Multi"],
+      "productUrl": "https://pk.khaadi.com/kurta/25-06-6E2-12TA-VG_MULTI.html",
+      "picUrl": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw721dfc09/images/hi-res/25-05e62-01tb_multi_1.jpg?sw=800&sh=1200",
+      "tags": ["Ready-to-Wear", "Kurta", "Cambric", "Floral"],
+      "inStock": true,
+      "image": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw721dfc09/images/hi-res/25-05e62-01tb_multi_1.jpg?sw=800&sh=1200",
+      "id": "16"
+    },
+    {
+      "title": "Printed Cambric Kurta",
+      "price": 3200.0,
+      "currency": "PKR",
+      "sku": "25-06-6E2-12TA",
+      "description": "Kurta:  A long floral printed kurta featuring full sleeves and a neckline with a V-cut adorned with tassel detailing..\nPants: floral printed straight pants.\nDupatta: printed lawn with tassels.",
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "colors": ["Multi"],
+      "productUrl": "https://pk.khaadi.com/kurta/25-06-6E2-12TA-VG_MULTI.html?source=plp&plpcgid=003005005-Kurta",
+      "picUrl": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw7f534b93/images/hi-res/25-06-6e2-12ta_multi_1.jpg?sw=800&sh=1200",
+      "tags": ["Ready-to-Wear", "Kurta", "Cambric", "Floral"],
+      "inStock": true,
+      "image": "https://pk.khaadi.com/dw/image/v2/BJTG_PRD/on/demandware.static/-/Sites-khaadi-master-catalog/default/dw7f534b93/images/hi-res/25-06-6e2-12ta_multi_1.jpg?sw=800&sh=1200",
+      "id": "1"
     }
 ]

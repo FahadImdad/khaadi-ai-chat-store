@@ -127,9 +127,9 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product, onAddToCart, 
         >
           {product.name}
         </h3>
-        {/* Description */}
-        <p className="text-stone-600 text-sm mb-4 line-clamp-2 leading-relaxed">
-          {product.description}
+        {/* Description (now shows title) */}
+        <p className="font-bold text-xl text-black mb-4 line-clamp-2 leading-relaxed">
+          {product.title || product.name}
         </p>
         {/* Price and Stock */}
         <div className="flex items-center justify-between mb-4">
